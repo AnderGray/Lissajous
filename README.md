@@ -10,7 +10,6 @@ Otherwise:
 To build please run "make"
 
 ![alt text](Lissajous1.png)
-![alt text](https://github.com/AnderGray/Lissajous/master/Lissajous1.png)
-![alt text](https://github.com/AnderGray/Lissajous/Lissajous2.png)
-![alt text](https://github.com/AnderGray/Lissajous/Lissajous3.png)
-![alt text](https://github.com/AnderGray/Lissajous/Lissajous4.png)
+![alt text](Lissajous2.png)
+![alt text](Lissajous3.png)
+![alt text](Lissajous4.png)
