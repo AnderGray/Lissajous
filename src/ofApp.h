@@ -3,7 +3,7 @@
 #include "ofMain.h"
 
 #define WAVEFORM_HISTORY 800
-#define TAIL_LENGTH 200
+#define TAIL_LENGTH 300
 
 class ofApp : public ofBaseApp{
 
