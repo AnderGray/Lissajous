@@ -1,6 +1,9 @@
 # Lissajous
 Openframeworks app for creating and controlling Lissajous figures using arrow keys
 
+
+Frequency of the oscilators adjusted with arrow keys, "awds" keys for phase and space bar will sync frequencies
+
 Pre built on Mac OSX 10.13:
 
 In terminal run "open bin/Lissjous.app"
