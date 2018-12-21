@@ -12,6 +12,8 @@ In terminal run "open bin/Lissjous.app"
 Otherwise:
 To build please run "make"
 
+openFrameworks is a pre-requisite
+
 ![alt text](Lissajous1.png)
 ![alt text](Lissajous2.png)
 ![alt text](Lissajous3.png)
